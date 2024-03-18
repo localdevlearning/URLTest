@@ -17,8 +17,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: vyepti
-    url: https://www.vyepti.com/
+  - name: Fusion
+    url: https://fusion.jpmorgan.com/
   - name: IPv6 test
     url: forwardemail.net
     port: 80
